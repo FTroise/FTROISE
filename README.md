@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Ciao, sono Francesco Troise!
 
 Benvenuto nel mio profilo GitHub! Sono uno studente della **42 Roma Luiss**, appassionato di tecnologia, programmazione e cybersecurity. Questo spazio raccoglie i miei progetti, esperimenti e contributi nel mondo della sicurezza informatica, del networking e della programmazione.
